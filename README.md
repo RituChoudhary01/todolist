@@ -12,4 +12,4 @@ HTML<br>
 CSS<br>
 JavaScript<br>
 Font Awesome (for icons)<br>
-<img width="701" alt="Screenshot 2025-03-09 at 11 40 32 PM" src="https://github.com/user-attachments/assets/edc32373-7c56-4fb6-8dcc-87f09232647d" />
+
